@@ -1,3 +1,5 @@
+#3D Potential Distribution and EM wave Propagation Simulation
+
 This project is made for simulating the EM-field.
 
 the projectfinal.pdf is a comprehensive report addressing to every detail regarding to the project.

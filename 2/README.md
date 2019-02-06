@@ -2,7 +2,7 @@
 <br><br>
   In this project, six methods of converging minimum value are used on two functions.
 <br><br>
-1.[Report](https://github.com/yyywrz/PHYSICS-PROJECT/blob/master/2/minimum_finding.pdf) 
+1.[Report](https://github.com/yyywrz/PHYSICS-PROJECT/blob/master/2/Project%20report.pdf) 
 <br>
   It is a comprehensive report including a discription of problem, methods used, results obtained, and comparisons.
   <br>

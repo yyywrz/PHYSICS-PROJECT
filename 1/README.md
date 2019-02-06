@@ -3,7 +3,7 @@
 
 This project is made for simulating the EM-field.<br><br>
 
-1. [Projectfinal.pdf](https://github.com/yyywrz/PHYSICS-PROJECT/blob/master/1/Projectfinal.pdf) 
+1. [Report](https://github.com/yyywrz/PHYSICS-PROJECT/blob/master/1/Pjreport.pdf) 
 <br>it is a comprehensive report addressing to every detail regarding to the project.
 <br><br>
 

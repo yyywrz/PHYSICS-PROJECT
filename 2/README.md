@@ -8,11 +8,3 @@
   <br>
   <br>
   <br>
-| Name of Methods | Function-1 | Function-2 |
-| :-------------: | :-------------: | :-------------: |
-| Direct Search | Content Cell | Content Cell |
-| Newton's Method | Content Cell | Content Cell |
-| BFGS Method | Content Cell | Content Cell |
-| Steepest Descent | Content Cell | Content Cell |
-| Conjugate Gradient | Content Cell | Content Cell |
-| Nelder-Mead Method| Content Cell | Content Cell |

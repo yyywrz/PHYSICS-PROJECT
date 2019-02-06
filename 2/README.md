@@ -1,4 +1,4 @@
-# Three-Dimensional Potential Distribution and Electromagnetic Wave Propagation Simulation
+# A Comparative Research on Different Minimum Finding Methods  
 <br><br>
   In this project, six methods of converging minimum value are used on two functions.
 <br><br>

@@ -14,4 +14,4 @@ This project is made for simulating the EM-field.<br><br>
 <br>It is the second part, simulating the papagation of the EM wave. The finite-difference simulating results are provided.
 <br><br>
 4. [Analytical_EM_wave.m](https://github.com/yyywrz/PHYSICS-PROJECT/blob/master/1/analytical_EM_wave.m) 
-<br>It provides the correct result as reference to 3.
+<br>It provides the correct result as a reference to 3.

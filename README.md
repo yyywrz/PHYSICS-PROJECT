@@ -7,7 +7,7 @@ All projects use Matlab to program.
 <br>
 <br>
 <br>
-1. [Project_1](https://github.com/yyywrz/PHYSICS-PROJECT/bolb/master/1/README.me) 
+1. [project-1](https://www.google.com)
 <br>Three-Dimensional Potential Distribution and Electromagnetic Wave Propagation Simulation
 <br><br>
   

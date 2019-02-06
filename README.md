@@ -5,7 +5,7 @@ This file is about some projects I have done when I was a physics student.
 <br>
 All projects presented here are related to physics.
 <br>
-All projects use Matlab to program.
+All projects use Matlab.
 <br><br><br>
 
 

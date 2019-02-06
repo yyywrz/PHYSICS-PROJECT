@@ -7,5 +7,8 @@ All projects use Matlab to program.
 The written reports are more important than the codes, because coding for engineering use just work as a caculation.
 <br>
 <br>
-1. [Three-Dimensional Potential Distribution and Electromagnetic Wave Propagation Simulation](https://github.com/yyywrz/PHYSICS-PROJECT/blob/master/1/README.md)
+<br>
+1. [Project 1](https://github.com/yyywrz/PHYSICS-PROJECT/blob/master/1/README.md)
+Three-Dimensional Potential Distribution and Electromagnetic Wave Propagation Simulation
+<br><br>
   

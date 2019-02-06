@@ -8,6 +8,4 @@
   <br>
   <br>
   <br>
-|Name | Function-1 | Function-2|
-| ---- | ---------- | ---------- |
-|Direct Search Method | pj_1a | pj_2a |
+

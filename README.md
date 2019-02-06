@@ -8,7 +8,7 @@ The written reports are more important than the codes, because coding for engine
 <br>
 <br>
 <br>
-1. [Project 1](https://github.com/yyywrz/PHYSICS-PROJECT/blob/master/1/README.md)
+1. [Projectfinal.pdf](https://github.com/yyywrz/PHYSICS-PROJECT/bolb/master/1/projectfinal.pdf) 
 Three-Dimensional Potential Distribution and Electromagnetic Wave Propagation Simulation
 <br><br>
   

@@ -9,6 +9,7 @@ All projects use Matlab to program.
 <br><br><br>
 
 
-1.[Project-1](https://github.com/yyywrz/PHYSICS-PROJECT/blob/master/1/README.me)
+1.[Project-1](https://github.com/yyywrz/PHYSICS-PROJECT/blob/master/1/README.md)
   <br>
-  Three-Dimensional Potential Distribution and Electromagnetic Wave Propagation Simulation
+  Three-Dimensional Potential Distribution and Electromagnetic Wave Propagation Simulation<br><br>
+2.
